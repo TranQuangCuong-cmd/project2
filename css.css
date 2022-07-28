@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    padding-top: 190px;
+}
+.header{
+    font-size: 60px;
+}
+#value{
+    font-size:50px;
+}
+.container-button{
+    margin-top: 20px;
+}
+.btn-two{
+    margin-left: 10px;
+    margin-right:10px;
+  
+}
+.btn-two, .btn-one, .btn-three{
+    border-radius: 7px;
+}
